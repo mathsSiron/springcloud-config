@@ -1,1 +1,2 @@
-
+config:
+  info: "master branch,mspringcloud/config.prod.yml version=1"
